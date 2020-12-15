@@ -1,0 +1,9 @@
+{
+    "km": {
+        "lang_name": "Khmer",
+        "default_processors": {
+        
+        },
+        "default_dependencies": {}
+    }
+}
